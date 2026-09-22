@@ -11,7 +11,7 @@
     "node": ">=24"
   },
   "devDependencies": {
-    "@defra/lis-infra-eslint-config": "0.0.1",
+    "@defra/lis-infra-eslint-config": "^0.6.0",
     "eslint": "^9.0.0"
   },
   "scripts": {
